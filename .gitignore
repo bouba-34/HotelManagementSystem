@@ -1,6 +1,6 @@
 # Ignorer le dossier bin/ et obj/ (générés par la compilation)
-bin/
-obj/
+**/bin/
+**/obj/
 
 # Ignorer les fichiers de configuration utilisateur
 *.user
@@ -12,13 +12,13 @@ obj/
 .vs/
 
 # Ignorer les fichiers de build de Rider
-.idea/
+**/.idea/
 
 # Ignorer les fichiers de log
 *.log
 
 # Ignorer les fichiers générés par NuGet
-.nuget/
+**/.nuget/
 
 # Ignorer le dossier de publication de l'application
 publish/
