@@ -1,0 +1,49 @@
+# Ignorer le dossier bin/ et obj/ (générés par la compilation)
+bin/
+obj/
+
+# Ignorer les fichiers de configuration utilisateur
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# Ignorer les fichiers de cache de Visual Studio
+.vs/
+
+# Ignorer les fichiers de build de Rider
+.idea/
+
+# Ignorer les fichiers de log
+*.log
+
+# Ignorer les fichiers générés par NuGet
+.nuget/
+
+# Ignorer le dossier de publication de l'application
+publish/
+
+# Ignorer les fichiers de paramètres de publication
+app.publish/
+
+# Ignorer les fichiers de cache de l'outil de migration de base de données
+db/
+
+# Ignorer les fichiers de configuration de package (généralement stockés dans le dossier .vs)
+.vs2019/
+
+# Ignorer les fichiers liés à JetBrains Rider
+.idea/
+
+# Ignorer les fichiers de sauvegarde d'éditeur
+*~.ncb
+*~.suo
+
+# Ignorer les fichiers du dossier de logs de Visual Studio
+.vscode/
+
+# Ignorer les fichiers de tests unitaires
+testResults/
+
+# Ignorer les fichiers de configuration
+**/appsettings.json

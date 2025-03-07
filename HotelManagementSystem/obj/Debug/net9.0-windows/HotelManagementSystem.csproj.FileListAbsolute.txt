@@ -117,3 +117,4 @@ C:\cours LSI\S4\.net\HotelManagementSystem\HotelManagementSystem\bin\Debug\net9.
 C:\cours LSI\S4\.net\HotelManagementSystem\HotelManagementSystem\bin\Debug\net9.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\cours LSI\S4\.net\HotelManagementSystem\HotelManagementSystem\bin\Debug\net9.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
 C:\cours LSI\S4\.net\HotelManagementSystem\HotelManagementSystem\bin\Debug\net9.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\cours LSI\S4\.net\HotelManagementSystem\HotelManagementSystem\bin\Debug\net9.0-windows\appsettings.json
